@@ -1,6 +1,6 @@
-# static-test-content
+# synthetic-web-fixtures
 
-Synthetic public pages for bounded Polytrace Website crawler testing.
+Synthetic public pages for bounded website crawler testing.
 
 The `crawler-fixtures/` directory contains linked pages covering JavaScript rendering,
 repeated-template extraction, canonical metadata, `noindex`, short-content acceptance,
