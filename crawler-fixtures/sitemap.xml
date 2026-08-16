@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/index.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/template-a.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/template-b.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/template-c.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/js-rendered.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/noindex.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/canonical-source.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/canonical-target.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/short-content.html</loc></url>
-  <url><loc>https://robinsonrc.github.io/static-test-content/crawler-fixtures/mt-alert-new-20260727.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/index.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/template-a.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/template-b.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/template-c.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/js-rendered.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/noindex.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/canonical-source.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/canonical-target.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/short-content.html</loc></url>
+  <url><loc>https://robinsonrc.github.io/polytrace-static-test-content/crawler-fixtures/mt-alert-new-20260727.html</loc></url>
 </urlset>
