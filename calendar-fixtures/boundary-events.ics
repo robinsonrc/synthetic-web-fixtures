@@ -15,10 +15,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:boundary-timed-20260926@example.invalid
 DTSTAMP:20260831T000000Z
-DTSTART:20260926T230000Z
-DTEND:20260927T000000Z
+DTSTART:20260926T220000Z
+DTEND:20260926T230000Z
 SUMMARY:Boundary cobalt field note
-DESCRIPTION:Timed event ending exactly when the October grid begins.
+DESCRIPTION:Timed event ending at Europe/London midnight when the October grid begins.
 END:VEVENT
 BEGIN:VEVENT
 UID:visible-control-20260927@example.invalid
