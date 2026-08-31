@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Synthetic Web Fixtures//Calendar Boundary Fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boundary calendar fixtures
+BEGIN:VEVENT
+UID:boundary-all-day-20260926@example.invalid
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Boundary amber field note
+DESCRIPTION:One-day all-day event ending exactly when the October grid begins.
+END:VEVENT
+BEGIN:VEVENT
+UID:boundary-timed-20260926@example.invalid
+DTSTAMP:20260831T000000Z
+DTSTART:20260926T230000Z
+DTEND:20260927T000000Z
+SUMMARY:Boundary cobalt field note
+DESCRIPTION:Timed event ending exactly when the October grid begins.
+END:VEVENT
+BEGIN:VEVENT
+UID:visible-control-20260927@example.invalid
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Visible jade field note
+DESCRIPTION:Control event occurring on the first visible day of the October grid.
+END:VEVENT
+END:VCALENDAR
